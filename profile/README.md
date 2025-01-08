@@ -24,9 +24,13 @@
 
 1. **자전거 정류장 정보 제공**
     - 사용자 위치를 기반으로 가장 가까운 자전거 대여 정류장 위치를 지도에 표시.
+    - 회원가입 화면: ![-Clipchamp-ezgif com-optimize](https://github.com/user-attachments/assets/252269e3-1cdf-465b-946a-aca11fb85b76)
     - 자전거 정류장에 남아 있는 사용 가능한 자전거 수 확인 가능.
 2. **경로 안내**
     - 목적지 검색 후 최적의 이동 경로를 제공.
 3. **일정 관리**
     - 특별한 약속을 날짜와 시간과 함께 저장.
     - 약속에 지각한 횟수를 자동으로 기록하고, 이를 사용자에게 시각적으로 제공.
+    - ![ezgif com-optimize](https://github.com/user-attachments/assets/d7e36c78-f779-465b-a1a9-2acc5a0b1d7c)
+## **앱의 전체 흐름**
+![-Clipchamp-ezgif com-optimize (3)](https://github.com/user-attachments/assets/c251a221-4a64-4e92-8872-314e99afca5c)
