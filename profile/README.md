@@ -32,5 +32,9 @@
     - 특별한 약속을 날짜와 시간과 함께 저장.
     - 약속에 지각한 횟수를 자동으로 기록하고, 이를 사용자에게 시각적으로 제공.
     - ![ezgif com-optimize](https://github.com/user-attachments/assets/d7e36c78-f779-465b-a1a9-2acc5a0b1d7c)
+
 ## **앱의 전체 흐름**
 ![-Clipchamp-ezgif com-optimize (3)](https://github.com/user-attachments/assets/c251a221-4a64-4e92-8872-314e99afca5c)
+
+## **APK 파일**
+[드라이브 링크](https://drive.google.com/file/d/1q0ZAvoDDIb3t6yVKnf2y_Gb1AjysxQNT/view?usp=sharing)
