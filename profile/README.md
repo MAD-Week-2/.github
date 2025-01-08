@@ -1,12 +1,18 @@
-## Hi there 👋
+# 타봤슈
 
-<!--
+## 개요📗
+‘타봤슈’는 카이스트 교내 약 8개의 자전거 정류장 정보를 보여주는 앱입니다. 회원가입, 로그인을 통해 앱을 사용하고 사용자 개인의 위치 정보 동의를 통해 주변에 가장 가까운 자전거 정류장의 정보를 제공합니다. 언제든 탈출할 수 있게 돕겠습니다.
 
-**Here are some ideas to get you started:**
+## 개발 스택
+- ### 개발 언어
+  - Flutter / Dart
+  - Flask / Python
+  - MySQL
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- ### IDE
+  - Android Studio
+  - VSC
+
+- ### UI 디자인
+  - Figma
+
